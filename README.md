@@ -3,9 +3,13 @@ I am a third-year Data Science student at Oregon State University, interested in
 
 Skills: 
 Experience using R for statistical analysis, data manipulation, and creating visualizations.
+
 Understanding statistical concepts, including probability, hypothesis testing, t-tests, and ANOVA.
+
 Creating graphs and visual representations of data using tools such as ggplot2.
+
 Organizing, cleaning, and preparing datasets for analysis.
+
 Analyzing results, identifying trends, and communicating findings in a clear and understandable way.
 
 
